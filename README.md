@@ -1,5 +1,5 @@
 HEAD
-Mon projet git partie B
+Modification de l'étudiant B
 Salut je m'apelle mohamed
 
 
