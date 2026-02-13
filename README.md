@@ -1,2 +1,1 @@
-Mon premier dépôt Git
-Modification par étudiant 2
+Mon projet git partie B
